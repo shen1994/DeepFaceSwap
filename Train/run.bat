@@ -1,0 +1,1 @@
+python train.py ../Files/LiaoFan ../Files/Xiaoshen2 --GPU_number 1 --batch_size 12
